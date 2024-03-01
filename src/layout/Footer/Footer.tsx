@@ -4,7 +4,7 @@ import Row from 'react-bootstrap/Row';
 
 const Footer: React.FC = () => {
   return (
-    <div className='footer' style={{backgroundColor: "#3737", padding: "10px 0"}}>
+    <div className='footer' style={{backgroundColor: "#A9A9A9", padding: "10px 0"}}>
         <Container>
             <Row>
               <div className='footerDiv' style={{display: "flex", alignItems: "center",   justifyContent: "space-between"}}>
