@@ -18,6 +18,11 @@ const Virtue: React.FC = () => {
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
                 </Col>
             </Row>
         </Container>
