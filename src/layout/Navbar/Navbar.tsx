@@ -12,7 +12,7 @@ function Navbar() {
       <>
         {[false].map((expand) => (
           <Navb expand={expand} className="navb mb-3 position-sticky top-0 z-100"
-           style={{backgroundColor: "#A9A9A9"}}>
+           style={{backgroundColor: "#3737"}}>
             <Container>
               <Nav.Link>
                 <Link to="/" style={{color: "black", fontSize: "22px", fontFamily: "sans-serif", fontWeight: "bold"}}>
