@@ -1,0 +1,33 @@
+.col1{
+    border-radius: 20px;
+    background-image: url("https://media.istockphoto.com/id/1193215395/photo/dark-stormy-clouds-for-background.jpg?s=612x612&w=0&k=20&c=tz57RqAg_0ovOo_OJQWAFwcUujHQ8kHKuZW9B9io01c=");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    margin: 30px 0;
+}
+
+.col2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+    .footerDiv{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
