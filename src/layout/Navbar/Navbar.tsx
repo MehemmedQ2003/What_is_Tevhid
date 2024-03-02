@@ -43,6 +43,9 @@ function Navbar() {
                         <Link to='Essentials' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>ESSENTİALS OF LA ILAHE ILLALLAH</Link></Nav.Link>
                         <br></br>
                       <Nav.Link href="">
+                        <Link to='Conditions' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>CONDITIONS OF LA ILAHE ILLALLAH</Link></Nav.Link>
+                        <br></br>
+                      <Nav.Link href="">
                         <Link to='ThingsBreak' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>THİNGS THAT BREAK LA ILAHE ILLALLAH</Link></Nav.Link>
                         <br></br>
                       <Nav.Link href="">

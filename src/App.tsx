@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import Virtue from './components/Virtue/Virtue';
 import Meaning from './components/Meaning/Meaning';
 import Essentials from './components/Essentials/Essentials';
+import Conditions from './components/Conditions/Conditions';
 import ThingsBreak from './components/ThingsBreak/ThingsBreak';
 import Requires from './components/Requires/Requires';
 import Rights from './components/Rights/Rights';
@@ -27,6 +28,8 @@ function App() {
         <Route path="Meaning" element={<Meaning />} />
 
         <Route path="Essentials" element={<Essentials />} />
+
+        <Route path="Conditions" element={<Conditions />} />
 
         <Route path="ThingsBreak" element={<ThingsBreak />} />
 
