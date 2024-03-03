@@ -11,12 +11,12 @@ function Navbar() {
     return (
       <>
         {[false].map((expand) => (
-          <Navb expand={expand} className="navb mb-3 position-sticky top-0 z-100"
-           style={{backgroundColor: "#A9A9A9"}}>
+          <Navb expand={expand} className="navb mb-3 position-sticky top-0"
+           style={{backgroundColor: "#A9A9A9", zIndex: "1"}}>
             <Container>
               <Nav.Link>
                 <Link to="/" style={{color: "black", fontSize: "22px", fontFamily: "sans-serif", fontWeight: "bold"}}>
-                  Learn Tevhid
+                  Whta is Tevhid?
                 </Link>
               </Nav.Link>
               <Navb.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />

@@ -8,8 +8,8 @@ const Footer: React.FC = () => {
         <Container>
             <Row>
               <div className='footerDiv' style={{display: "flex", alignItems: "center",   justifyContent: "space-between"}}>
-                <h4 className='text-center'>2024 &copy; Tevhid</h4>
-                <h4 className='text-center'>mehemmed.qardasov2003@gmail.com</h4>
+                <h5 className='text-center'>2024 &copy; Tevhid</h5>
+                <h5 className='text-center'>mehemmed.qardasov2003@gmail.com</h5>
               </div>
             </Row>
         </Container>

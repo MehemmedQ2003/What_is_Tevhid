@@ -13,11 +13,106 @@ const Header: React.FC = () => {
                     <h1 className='text-center'>La Ilaha İllallah</h1>
                 </Col>
                 <Col lg={{span: 6, offset:1}} md={{span: 6, offset:1}} sm={12} className='col2'>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit explicabo ea aliquid omnis, quisquam placeat dolorem expedita fugit, iste odit sunt optio aut voluptatem ad vel alias voluptate quia deserunt!
+                    <p style={{fontSize: "22px", color: "#36454F"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًۭا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+                    <br/>
+                    <br/>
+                    <i>"Did you then think that We had created you without purpose, and that you would never be returned to Us?"</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(23/Al-Muminun,115)</p>
+
+
+                    <hr/>
+                    
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى 
+                    <br/>
+                    <br/>
+                    <i>"Do people think they will be left without purpose?"</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(75/Al-Qiyamah,36)</p>
+
+
+                    <hr/>
+                    
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
+                    <br/>
+                    <br/>
+                    <i>"I did not create jinn and humans except to worship Me."</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(51/Adh-Dhariyat,56)</p>
+
+
+                    <hr/>
+
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًۭا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍ
+                    <br/>
+                    <br/>
+                    <i>"Indeed, Allah has done the believers a ˹great˺ favour by raising a messenger from among them—reciting to them His revelations, purifying them, and teaching them the Book and wisdom. For indeed they had previously been clearly astray."</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran,164)</p>
+
+
+                    <hr/>
+                    
+                    
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>مُّحَمَّدٌۭ رَّسُولُ ٱللَّهِ ۚ
+                    <br/>
+                    <br/>
+                    <i>"Muḥammad is the Messenger of Allah. "</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(48/Al-Fath,29)</p>
+
+
+                    <hr/>
+
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا
+                    <br/>
+                    <br/>
+                    <i>"Muḥammad is not the father of any of your men, but is the Messenger of Allah and the seal of the prophets. And Allah has ˹perfect˺ knowledge of all things."</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(33/Al-Ahzab,40)</p>
+
+
+                    <hr/>
+
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ <br/>  قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ
+                    <br/>
+                    <br/>
+                    <i>"Say, ˹O Prophet,˺ “If you ˹sincerely˺ love Allah, then follow me; Allah will love you and forgive your sins. For Allah is All-Forgiving, Most Merciful."</i>
+                    <br/>
+                    <i>"Say, ˹O Prophet,˺ “Obey Allah and His Messenger.” If they still turn away, then truly Allah does not like the disbelievers."</i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran,31-32)</p>
+
+
+                    <hr/>
+
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <b style={{fontSize: "20px"}}>Almighty Allah says:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ
+                    <br/>
+                    <br/>
+                    <i> </i>
+                    </p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran,31-32)</p>
                 </Col>
             </Row>
         </Container>
