@@ -90,7 +90,7 @@ const Header: React.FC = () => {
                     <hr/>
 
 
-                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Our Almighty Lord did not create us in vain</p>
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Whoever obeys the Messenger of Allah, Muhammad, may Allah’s peace and blessings be upon him, will achieve eternal salvation. Whoever disobeys Him and disobeys Him will perish forever.</p>
                     <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
                     <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ <br/>  قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَـٰفِرِينَ
                     <br/>
@@ -102,17 +102,38 @@ const Header: React.FC = () => {
                     <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran,31-32)</p>
 
 
+
                     <hr/>
 
 
-                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>Whoever obeys the Messenger of Allah, Muhammad, may Allah’s peace and blessings be upon him, will achieve eternal salvation. Whoever disobeys Him and disobeys Him will perish forever.</p>
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>When our Almighty Lord gives an order to his servants, the following seven orders become wajib for us related to that order.</p>
+                    <br/>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>The first is</i></b>: to learn that order.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Secondly</i></b>: to love that which is commanded.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Third</i></b>: to persevere in fulfilling that commandment.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Fourth </i></b>: to fulfill that order.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Fifth</i></b>: When fulfilling this order, make sure that it complies with the following two conditions:</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}>1-Ikhlas: That is, to be sincere to Allah.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}>2-Mutabaat: That is, it should be in accordance with the Sunnah of the Prophet.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Sixth</i></b>: After fulfilling that commandment, to avoid deeds that will make the deed done in vain,l.</p>
+                    <p style={{fontSize: "24px", color: "#36454F"}}><b><i>Seventh</i></b>: to persevere in fulfilling that commandment and to be constant.</p>
+
+
+
+                    
+
+
+                    <hr/>
+
+
+                    <p style={{fontSize: "22px", color: "#36454F", marginTop: "80px"}}>The greatest commandment that our Almighty Lord commands his servants through all the messengers and our messenger Muhammad sallallahu alayhi wa sallam is tahwid, expressed by the word <b><i>la ilaha illallah.</i></b></p>
                     <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
                     <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red"}}>وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ
                     <br/>
                     <br/>
-                    <i> </i>
+                    <i>We surely sent a messenger to every community, saying, “Worship Allah and shun false gods.</i>
                     </p>
-                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran,31-32)</p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(16/An-Nahl,36)</p>
                 </Col>
             </Row>
         </Container>
