@@ -16,7 +16,7 @@ function Navbar() {
             <Container>
               <Nav.Link>
                 <Link to="/" style={{color: "black", fontSize: "22px", fontFamily: "sans-serif", fontWeight: "bold"}}>
-                  What is Tevhid?
+                  What is Tawhid?
                 </Link>
               </Nav.Link>
               <Navb.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
