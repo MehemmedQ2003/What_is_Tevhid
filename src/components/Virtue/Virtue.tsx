@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col';
 
 const Virtue: React.FC = () => {
   return (
-    <div className='virtue' style={{marginBottom: "190px"}} >
+    <div className='virtue' style={{marginBottom: "170px"}} >
         <Container>
             <Row>
                 <Col lg={5} md={5} sm={12} className='col1'>

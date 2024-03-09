@@ -10,8 +10,8 @@ import Requires from './components/Requires/Requires';
 import Rights from './components/Rights/Rights';
 import Investigation from './components/Investigation/Investigation';
 import Footer from './layout/Footer/Footer';
-import Contact from './components/Contact/Contact';
 import { Routes, Route } from "react-router-dom";
+import Source from './components/Source/Source';
 
 
 
@@ -25,8 +25,7 @@ function App() {
 
         <Route path="/" index element={<Header />} /> 
 
-        <Route path="Virtue"element=
-        {<Virtue />} />
+        <Route path="Virtue" element={<Virtue />} />
 
         <Route path="Meaning" element={<Meaning />} />
 
@@ -38,12 +37,11 @@ function App() {
 
         <Route path="Requires" element={<Requires />} />
 
-        <Route path="Rights" element=
-        {<Rights />} />
+        <Route path="Rights" element={<Rights />} />
 
         <Route path="Investigation" element={<Investigation />} />
 
-        <Route path="Contact" element={<Contact />} />
+        <Route path="Source" element={<Source />} />
 
       </Routes>
       <Footer />

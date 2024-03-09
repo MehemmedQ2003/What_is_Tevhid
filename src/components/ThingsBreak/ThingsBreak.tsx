@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col';
 
 const ThingsBreak: React.FC = () => {
   return (
-    <div className='thingsBreak' style={{marginBottom: "190px"}} >
+    <div className='thingsBreak' style={{marginBottom: "170px"}} >
         <Container>
             <Row>
                 <Col lg={5} md={5} sm={12} className='col1'>

@@ -57,8 +57,8 @@ function Navbar() {
                       <Nav.Link href="">
                         <Link to='Investigation' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>INVESTIGATION OF LA ILAHE ILLALLAH</Link></Nav.Link>
                         <br></br>
-                      <Nav.Link href="">
-                        <Link to='Contact' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>CONTACT WITH US</Link></Nav.Link>
+                        <Nav.Link href="">
+                          <Link to='Source' style={{fontFamily: "sans-serif" ,fontSize: "20px", textDecoration: "none", color: "#36454F", fontWeight: "bold"}}>SOURCES FOR ISLAM</Link></Nav.Link>
                     </Nav>
                   </Offcanvas.Body>
                 </Navb.Offcanvas>
