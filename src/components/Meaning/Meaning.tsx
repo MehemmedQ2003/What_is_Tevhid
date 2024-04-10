@@ -25,6 +25,8 @@ const Meaning: React.FC = () => {
                     
                     <p><b><u>Worship</u></b>, that is, worship with complete love, fear and hope; It shows humiliation, being needy, helplespoor and despised, and submitting with complete devotion from the heart.</p>
                     <br/>
+                    
+                    <hr/>
 
                     <p>All actions that Allah loves and approves, verbally or physically, inwardly or outwardly, are acts worship. Begging, praying, seeking help, taking refuge, prostrating, making a vow, asacrificing a sacrifice are some of the most special examples of worship.</p>
                     <br/>
@@ -34,6 +36,8 @@ const Meaning: React.FC = () => {
 
                     <p>These two verses express this meaning of the word <b><i>la ilahe illallah</i></b> in a way that everyone can understand.</p>
                     <br/>
+                    
+                    <hr/>
 
                     <p><b><u>First Verse</u></b></p>
                     <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
@@ -42,6 +46,9 @@ const Meaning: React.FC = () => {
                     <p><i>"˹Remember, O  Prophet˺ when Abraham declared to his father and his people, “I am totally free of whatever ˹gods˺ you worship,except the One Who originated me, and He will surely guide me.” And he left this enduring declaration among his descendants, so they may ˹always˺ turn back ˹to Allah˺"</i></p>
                     <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(43/Az-Zukhruf, 26-28)</p>
                     
+                    <hr/>
+
+
                     <p>The eternal word left by Ibrahim (peace be upon him) is the word <b>la ilahe illallah.</b></p>
                     <br/>
 
@@ -71,12 +78,16 @@ const Meaning: React.FC = () => {
 
                     <p style={{fontSize: "22px"}}>Moreover, instead of saying <b>"except Allah"</b>, he says <b>"except the one who created me"</b>, in order to bind them by mentioning the fact that they accept that the Creator is Allah, as evidence against them. In other words, the polytheists believed that Allah was the only Creator, and when asked, they said so without hesitation.</p>
                     <br/>
+                    
+                    <hr/>
 
                     <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
                     <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ</p>
                     <br/>
                     <p><i>"If you ask them ˹O Prophet˺ who created them, they will certainly say, “Allah!” How can they then be deluded ˹from the truth˺?"</i></p>
                     <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(43/Az-Zukhruf, 87)</p>
+                    
+                    <hr/>
 
                     <p><b><u>Second Verse</u></b></p>
                     <br/>
@@ -87,6 +98,8 @@ const Meaning: React.FC = () => {
                     <p><i>"Say, ˹O Prophet,˺ “O People of the Book! Let us come to common terms: that we will worship none but Allah, associate none with Him, nor take one another as lords instead of Allah.” But if they turn away, then say, “Bear witness that we have submitted ˹to Allah alone˺.”"</i></p>
                     <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali Imran, 64)</p>
                     <br/>
+                    
+                    <hr/>
 
                     <p style={{fontSize: "22px"}}>The word that the Prophet sallallahu alayhi wa sallam invited them to is the word <b><i>la ilahe illallah</i></b>.</p>
                     <br/>
@@ -111,6 +124,8 @@ const Meaning: React.FC = () => {
 
                     <p style={{fontSize: "22px"}}>So, the meaning of <b><i>la ilahe illallah</i></b> is “Let us not worship anyone but Allah.” means</p>
                     <br/>
+                    
+                    <hr/>
 
                     <p style={{fontSize: "22px"}}>As can be understood from all these, the word <b>la ilahe illallah</b> does not mean accepting the existence of  Allah or that He is the Creator, but it means uniting in worship the Almighty Allah, whose existence and sole creator is known to everyone, worshiping anyone other than Him and rejecting everything worshiped other than Him.</p>
                     <br/>
