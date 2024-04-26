@@ -346,7 +346,7 @@ const Conditions: React.FC = () => {
 
                     <br />
 
-                    <p style={{fontSize: "22px"}}>Anyone who does not fulfill this condition is an infidel with the blasphemy of <b><i>'rad (turning away), tavelli (turning his back) and abstinence</i></b>, and is not a Muslim.</p>
+                    <p style={{fontSize: "22px"}}>Anyone who does not fulfill this condition is an infidel with the blasphemy of <b><i>(turning away), (turning his back) and abstinence</i></b>, and is not a Muslim.</p>
 
                 </Col>
             </Row>
