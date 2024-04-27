@@ -19,6 +19,9 @@ const ThingsBreak: React.FC = () => {
 
                     <p style={{fontSize: "22px"}}>The most unknown, the most common and the most dangerous of the things that corrupt <b><i>La ilaha illallah</i></b> are these nine. All other itikad, words and deeds that will corrupt him and force a person out of the religion of Islam are definitely included in these nine articles in some way.</p>
 
+                    <br />
+                    <br />
+
                     <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
 
                     <p style={{fontSize: "22px"}}><b>The first is:</b> to associate partners with Allah, that is, <b><i>associate.</i></b></p>
@@ -270,6 +273,274 @@ const ThingsBreak: React.FC = () => {
 
                     <p style={{fontSize: "22px"}}>A person who performs any of these acts of worship - no matter what he calls it- to someone other than Allah, whether the message has reached him or not, whether it has been substituted or not, whether he is a scholar or ignorant, or whether he considers himself a Muslim and performs prayer, gives zakat, fasts and says <b><i>la ilaha illallah</i></b>, <b><i>is an idolater</i></b>.</p>
 
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>Secondly:</b> Not to reject the polytheists, to doubt them when they are unbelievers, to see their ways as correct.</p>
+                    
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>Takfir is the ruling that a person or a group is an infidel.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>Contrary to what is thought, Takfir is not an absolutely condemned, evil and singular thing, but is one of the principles of religion. Without Takfir, there can be no separation, monotheism cannot be distinguished from polytheism and a believer from polytheist</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The Prophet sallallahu 'alayhi wasallam recites the surahs of the Kafirun and Ikhlas during the Sunnah of morning and evening prayers and the vitir prayer, In Surat al-Kafirun, he declares that those who worship anyone other than Allah are infidels and declares his acquittal from polytheists, he also declared that he had made worship to Allah sincere through Surah ikhlas.</p>
+                    
+                    <br />
+
+                    <p style={{fontSize: "22px"}}><i>"Say, ˹O Prophet,˺ “O you disbelievers!. I do not worship what you worship". </i> 
+                    <b>(109/Al-Kafirun, 1-2)</b> by said the nephi, which is the first run of la ilaha illallah, 
+
+                    <i>"Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺;". </i> 
+                    <b>(112/Al-Ikhlas, 1)</b> he would renew Tawhid by expressing isbat, which is the second ruku, by saying.
+                    
+                    He used to repeat this three times a day in the morning, evening and night.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>A person who does not reject the polytheists whom Allah and His Messenger have rejected becomes an unbeliever because he denies Allah and His Messenger.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>If he does not reject polytheists, it is because he does not know or does not accept that polytheism is something that takes a person out of the religion, that is, if he does not reject polytheism, or if he thinks that one can become a Muslim without denying polytheism, this person has not yet entered the religion of Islam himself, because he does not deny idolatry.</p>
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>He who takfir polytheists and polytheism in general, denies the tagut.</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>Thirdly:</b> The Prophet sallallahu alayhi wa sallam is to see someone else's path as more correct than his path or someone else's judgments as better than His judgment.</p>
+                    
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>Human laws and unwritten customs that are contrary to the Sharia that people make; secularism, democracy, socialism, etc., which are completely opposite to Islam. Seeing world views as more correct than the path of the Prophet sallallahu alayhiwa sallam and what He has brought, or judging by them and adopting them equally to him, or finding what He has brought more correct and more beautiful, but seeing it normal, ordinary,permissible to rule by these laws and customs and adopt another worldview and value judgment, corrupts la ilaha illallah and removes a person from the religion of Islam.</p>
+
+                    <br />
+                    <hr />
+
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَٱلَّذِينَ تَدْعُونَ أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًۭا لِّقَوْمٍۢ يُوقِنُونَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Is it the judgment of ˹pre-Islamic˺ ignorance they seek? Who could be a better judge than Allah for people of sure faith?</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(5/Al-Ma'idah, 50)</p>
+
+                    <hr />
+
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَنْ أَضَلُّ مِمَّن وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللّهُ فَأُوْلَئِكَ هُمُ الْكَافِرُونَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>And those who do not judge by what Allah has revealed are ˹truly˺ the disbelievers.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(5/Al-Ma'idah, 44)</p>
+
+                    <hr />
+
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَنْ أَضَلُّ مِمَّن وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Whoever seeks a way other than Islam,1 it will never be accepted from them, and in the Hereafter they will be among the losers.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(3/Ali-Imran, 85)</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>Islam is to submit to Allah with Tawhid, to obey Him with submission, to be since polytheism and the people of polytheists.</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>Fourth:</b> To hate anything that the Prophet(peace be upon him) has brought is to see it as bad and ugly. Even if a person who sees like this acts with them, he will have violated his <b><i>la ilaha illallah</i></b> and left the religion of Islam.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَالَّذِينَ كَفَرُوا فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَالَهُمْ  *ذَلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>As for the disbelievers, may they be doomed and may He render their deeds void. That is because they detest what Allah has revealed, so He has rendered their deeds void.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(47/Muhammad, 8-9)</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>The fifth:</b> To mock Allah, His prophet, His book or his religion, the commandments and prohibitions of His religion, paradise and hell is to make them the subject of humor and entertainment.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>لاَ تَعْتَذِرُواْ قَدْ كَفَرْتُم بَعْدَ إِيمَانِكُمْ * لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ قُلْ أَبِاللّهِ وَآيَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِؤُونَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>“We were only talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger that you ridiculed?” Make no excuses! You have lost faith after your belief. </i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(9/At-Tawbah, 65-66)</p>
+
+                    <hr />
+
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>لاَ تَعْتَذِرُواْ قَدْ وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَـٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَـٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَـٰفِقِينَ وَٱلْكَـٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>He has already revealed to you in the Book that when you hear Allah’s revelations being denied or ridiculed, then do not sit in that company unless they engage in a different topic, or else you will be like them. Surely Allah will gather the hypocrites and disbelievers all together in Hell.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(4/An-Nisa, 140)</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>This includes mocking the Sunnah of the Prophet(peace be upon him), whether wajib or mustahab, mocking their people for practicing these sunnahs, making fun of the beard, the short legs and the veil.</p>
+                    
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>لاَ تَعْتَذِرُواْ قَدْ إِنَّ الَّذِينَ أَجْرَمُوا كَانُواْ مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ * وَإِذَا مَرُّواْ بِهِمْ يَتَغَامَزُونَ* وَإِذَا انقَلَبُواْ إِلَى أَهْلِهِمُ انقَلَبُواْ فَكِهِينَ* وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَؤُلَاء لَضَالُّونَ* وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ* فَالْيَوْمَ الَّذِينَ آمَنُواْ مِنَ الْكُفَّارِ يَضْحَكُونَ* عَلَى الْأَرَائِكِ يَنظُرُونَ* هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Indeed, the wicked used to laugh at the believers, wink to one another whenever they passed by, and muse ˹over these exploits˺ upon returning to their own people. And when they saw the faithful, they would say, “These ˹people˺ are truly astray,” even though they were not sent as keepers over the believers. But on that Day the believers will be laughing at the disbelievers, as they sit on ˹canopied˺ couches, looking on. ˹The believers will be asked,˺ “Have the disbelievers ˹not˺ been paid back for what they used to do?”</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(83/Al-Mutaffifin, 29-36)</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>The Sixth:</b> It is magic.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَا كَفَرَ سُلَيْمَانُ وَلَكِنَّ الشَّيْاطِينَ كَفَرُواْ يُعَلِّمُونَ النَّاسَ السِّحْرَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Never did Solomon disbelieve, rather the devils disbelieved. They taught magic to the people, </i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(2/Al-Baqarah, 102)</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>So teaching magic is blasphemy.</p>
+
+                    <br />
+                    
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّى يَقُولاَ إِنَّمَا نَحْنُ فِتْنَةٌ فَلاَ تَكْفُرْ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>The two angels never taught anyone without saying, “We are only a test ˹for you˺, so do not abandon ˹your˺ faith.” </i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(2/Al-Baqarah, 102)</p>
+
+                    <br />
+                    
+                    <p style={{fontSize: "22px"}}>So learning magic is blasphemy.</p>
+
+                    <br />
+                    
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَلَقَدْ عَلِمُواْ لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الآخِرَةِ مِنْ خَلاَقٍ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>They already knew that whoever buys into magic would have no share in the Hereafter.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(2/Al-Baqarah, 102)</p>
+
+                    <br />
+                    
+                    <p style={{fontSize: "22px"}}>So learning magic is blasphemy.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>In other words, it is blasphemy to learn, teach, do and make magic. A person breaks the <b><i>la ilaha illallah</i></b> with these and leaves the religion of Islam.</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>The Seventh:</b> To take the polytheists as friends and to support them against the believers.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُ مِنْهُمْ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i> Whoever does so will be counted as one of them. </i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(5/Al-Ma'idah, 51)</p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>The Eighth</b> He accepts that some people, regardless of their rank in the religion, may go outside the sharia of Muhammad(peace be upon him), and they do not have to follow the rules of Sharia like other ordinary people.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللّهِ إِلَيْكُمْ جَمِيعًا</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Say, ˹O Prophet,˺ “O humanity! I am Allah’s Messenger to you all.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(7/Al-A'raf, 158)</p>
+                    
+                    <hr />
+                    <br />
+
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>The Prophet (peace be upon him) also says:</p>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>والذي نفسي بيده لو أن موسى عليه السلام كان حيّا ما وسعه إلا أن يتبعني</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>“By Allah, if Musa had been alive, he would have had no choice but to follow me.”</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(Ahmad)</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}><i>Buna Şeriatın emir ve yasaklarını çiğneyip küfür ve şirk söyleyen tasavvuf büyüklerinin, müzik aletleriyle yarışarak Allah'a ibadet ettiğini iddia eden zindiklerin, necasetten nasıl kurtulacağını bile anlamayan mecnunların ve saz çalan ve türkü söyleyen aşıkların inanması da dahildir Allah'ın dostları mıdır, yoksa bunları yaparak dost olabilirler mi?</i></p>
+
+                    <br />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>The things that corrupt <b><i>La ilaha illallah</i></b></p>
+
+                    <p style={{fontSize: "22px"}}><b>The Ninth</b> It is to turn away from the religion of Allah by not caring about religion, not caring about learning its truth and living.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا إِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>And who does more wrong than the one who is reminded of Allah’s revelations then turns away from them? We will surely inflict punishment upon the wicked.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(7/As-Sajdah, 22)</p>
+                    
+                    <hr />
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>There is no difference between those who commit these things that Deconstruct <b><i>La ilaha illallah</i></b>, those who commit them jokingly or seriously, or out of fear, or for the sake of something they want to achieve. The only valid excuse for committing one of them is ikrah, which is mu'teber, that is, coercion.</p>
+
+                    <br />
+                    <hr />
+                    
+                    <b style={{fontSize: "20px"}}>Almighty Allah says this:</b>
+                    <p style={{fontSize: "22px", textAlign: "center", marginTop: "30px", color: "red", fontWeight: "bold"}}>مَن كَفَرَ بِاللّهِ مِن بَعْدِ إيمَانِهِ إِلاَّ مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالإِيمَانِ وَلَكِن مَّن شَرَحَ بِالْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ</p>
+                    <br/>
+                    <p style={{fontSize: "22px"}}><i>Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.</i></p>
+                    <p style={{fontSize: "20px", textAlign: "center", fontWeight: "bold"}}>(16/An-Nahl, 106)</p>
+                    
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>Those who utter blasphemous words or commit blasphemous deeds in the verse are divided into two parts.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}><b>First:</b> Those who do this under ikrah. They are excused on the condition that their hearts are satisfied with faith.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}><b>Second:</b> Those who do these blasphemous words and deeds for any reason other than ikrah. Whether they are joking or serious, out of fear or out of anticipation, whether they believe in what they say and do with their hearts or not, according to the ruler of this verse, they have opened their breasts to disbelief and become unbelievers after their faith.</p>
+
+                    <br />
+
+                    <p style={{fontSize: "22px"}}>If it is in the itikad in the heart, nothing is an excuse, including ikrah.</p>
+                
                 </Col>
             </Row>
         </Container>
